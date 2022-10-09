@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941050497454",
+    "project_id": "peduly-a43ae",
+    "storage_bucket": "peduly-a43ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941050497454:android:b5bad53ac13ef1c775e03f",
+        "android_client_info": {
+          "package_name": "com.peduly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941050497454-d91ksfbejibu1sr1a92lun3h0rhhq0j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB0GxErBFNCtbpMCpZK0dhr-0-z-CrlvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941050497454-d91ksfbejibu1sr1a92lun3h0rhhq0j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
